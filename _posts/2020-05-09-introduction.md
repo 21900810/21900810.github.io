@@ -1,4 +1,8 @@
-TITLE : introduction
+---
+title: "Introduction"
+date: 2020-05-09
+categories: personal information
+---
 
 이름: 황건하
 나이: 21
